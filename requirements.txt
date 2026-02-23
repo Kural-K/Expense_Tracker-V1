@@ -1,0 +1,4 @@
+**requirements**
+streamlit
+pandas
+plotly
